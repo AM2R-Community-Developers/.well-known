@@ -1,0 +1,3 @@
+AM2RLauncher token: 8ff0f8f5-62d3-4bb2-a004-4a0b9f92e777
+
+Atomic token: 82f5c8b9-d9da-46f3-b57a-85b83790db81
